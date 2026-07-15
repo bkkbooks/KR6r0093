@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0093/v1
 canonical_location: https://kanripo.org/bkk/KR6r0093/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 雲臥紀譚
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0093_000.yaml, hash: 'sha256:924c1176195671227a7e43fb1c123919f37ef7e7e82c7e7b6acdce6ad853fe2d'}
-  - {seq: 1, filename: KR6r0093_001.yaml, hash: 'sha256:406e57fc296d780f9229578756915beb7aedf4dd6ba41d9eb417bd60c31927b3'}
-  - {seq: 2, filename: KR6r0093_002.yaml, hash: 'sha256:7027dbfb439454052058a59e09e3fedf5ac5df5eb26801c76edce8ae9e0ccf01'}
+  - {seq: 0, filename: KR6r0093_000.yaml, hash: 'sha256:753ca991845b9bbdaa72e94976fb78882aa89ed94dafdede911f630b77c94641'}
+  - {seq: 1, filename: KR6r0093_001.yaml, hash: 'sha256:47d863da9d178dae68b3dece1650a74cae7d9764754cc7d4d6adb012367c5290'}
+  - {seq: 2, filename: KR6r0093_002.yaml, hash: 'sha256:13d7aaf1a8987576acee74facc097b8061d039fbb1de72d2eaac79402bd87e16'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0093_000.markers.yaml, hash: 'sha256:e94b6bbe7c11668acafe2db1384d2bf7f7f7a8e5322ec2a4b96876509b6e897b'}
-  - {seq: 1, role: markers, filename: assets/KR6r0093_001.markers.yaml, hash: 'sha256:acc35d8fa1f59f55ab84c9eb71700bce0c0833065072e12deb493f78999f0b2e'}
-  - {seq: 2, role: markers, filename: assets/KR6r0093_002.markers.yaml, hash: 'sha256:2096bab8e66e243633fc79c61c012354b811b0f0aca2a9782c120c439117c69d'}
+  - {seq: 0, role: markers, filename: assets/KR6r0093_000.markers.yaml, hash: 'sha256:590af0bfb1cef6455a1c685f55fffaccf34106e110776e2d1663ff87feb37741'}
+  - {seq: 1, role: markers, filename: assets/KR6r0093_001.markers.yaml, hash: 'sha256:89c29955e5c1a20c35eb470baa278b69a4eb94c96376bd8ef7366692ecdd238d'}
+  - {seq: 2, role: markers, filename: assets/KR6r0093_002.markers.yaml, hash: 'sha256:15841e10ce9f3e0b747daf0c544e0a45a266e9c5b01aa6bc38c1497bf6610642'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1039,4 +1039,7 @@ table_of_contents:
   label: No. 1610-B 雲臥菴主書
   type: mulu
   level: 1
-hash: sha256:502212b95e97ce528d57c272c28d5785cc7df11d2bce022873b1fc54a33e0c52
+hash: sha256:07c50ba4f2172fd19fe18df10f5e779aa223c37907e7f57783e4f4e2d4aa836a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
