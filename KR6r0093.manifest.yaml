@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0093_000.yaml, hash: 'sha256:753ca991845b9bbdaa72e94976fb78882aa89ed94dafdede911f630b77c94641'}
+  - {seq: 0, filename: KR6r0093_000.yaml, hash: 'sha256:013e0467fb3c8ff70e211bbb915fbd56c4ddf0a97b01e897ce02986f299f6691'}
   - {seq: 1, filename: KR6r0093_001.yaml, hash: 'sha256:47d863da9d178dae68b3dece1650a74cae7d9764754cc7d4d6adb012367c5290'}
   - {seq: 2, filename: KR6r0093_002.yaml, hash: 'sha256:13d7aaf1a8987576acee74facc097b8061d039fbb1de72d2eaac79402bd87e16'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0093_000.markers.yaml, hash: 'sha256:590af0bfb1cef6455a1c685f55fffaccf34106e110776e2d1663ff87feb37741'}
+  - {seq: 0, role: markers, filename: assets/KR6r0093_000.markers.yaml, hash: 'sha256:933c5779a80055b6197379f75c786f46d7bf5bebb3302b7f5d7b89b43db3fb78'}
   - {seq: 1, role: markers, filename: assets/KR6r0093_001.markers.yaml, hash: 'sha256:89c29955e5c1a20c35eb470baa278b69a4eb94c96376bd8ef7366692ecdd238d'}
   - {seq: 2, role: markers, filename: assets/KR6r0093_002.markers.yaml, hash: 'sha256:15841e10ce9f3e0b747daf0c544e0a45a266e9c5b01aa6bc38c1497bf6610642'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0093_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1610-A 感山雲臥紀談
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0093_X_000-mulu-2
     span:
-    - front
+    - body
     - 248
     - 248
   label: 雲臥紀譚目錄
@@ -1039,7 +1039,7 @@ table_of_contents:
   label: No. 1610-B 雲臥菴主書
   type: mulu
   level: 1
-hash: sha256:07c50ba4f2172fd19fe18df10f5e779aa223c37907e7f57783e4f4e2d4aa836a
+hash: sha256:dc5b08c542bb4374683f7e6b1d5d8f6433028f217ae13757eed3351db06a7ed3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
